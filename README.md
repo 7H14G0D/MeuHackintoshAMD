@@ -5,9 +5,6 @@ Obrigado OpenCore, meu HackAmd está liso!
 
 > Hackintosh 
 
-Conhecimentos adquiridos com os videos do Gabriel Luchina
-o Config.plist do repositório eu removi os seriais e infos 
-geradas.
 
 Para adquirir conhecimento eu indico o link abaixo
 
@@ -16,7 +13,10 @@ Para adquirir conhecimento eu indico o link abaixo
 
 ## 🛠 Tecnologias
 
-- MacOS
+- OpenCore
+- ProperTree
+- 
+- macOS
 
 ## 💛 Contato
 
