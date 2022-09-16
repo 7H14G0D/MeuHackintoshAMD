@@ -10,7 +10,7 @@ Obrigado OpenCore, meu HackAmd está liso!
 
 
 
-Para adquirir conhecimento eu indico o link abaixo
+Para adquirir conhecimento eu indico o canal do Gabriel Luchina
 
 [🔗 Clique aqui para acessar](https://www.youtube.com/c/GabrielLuchina)
 
