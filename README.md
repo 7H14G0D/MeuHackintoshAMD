@@ -5,18 +5,17 @@ Obrigado OpenCore, meu HackAmd está liso!
 
 > Hackintosh 
 
+## 🛠 Opencore
+[🔗 Clique aqui para acessar](https://github.com/acidanthera/OpenCorePkg)
+
+
 
 Para adquirir conhecimento eu indico o link abaixo
 
 [🔗 Clique aqui para acessar](https://www.youtube.com/c/GabrielLuchina)
 
 
-## 🛠 Tecnologias
 
-- OpenCore
-- ProperTree
-- 
-- macOS
 
 ## 💛 Contato
 
