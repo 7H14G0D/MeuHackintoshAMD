@@ -1,5 +1,5 @@
 # MeuHackintosh
-Obrigado equipe dp OpenCore, meu Hackintosh está rodando liso!
+Obrigado equipe do OpenCore e o Gabriel Luchina, meu Hackintosh está rodando liso!
 
 ![preview](https://i.imgur.com/tRyVFJx.jpg)
 
