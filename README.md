@@ -1,5 +1,5 @@
 # MeuHackintosh
-Obrigado OpenCore, meu HackAmd está liso!
+Obrigado equipe dp OpenCore, meu Hackintosh está rodando liso!
 
 ![preview](https://i.imgur.com/tRyVFJx.jpg)
 
