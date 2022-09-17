@@ -1,5 +1,5 @@
 # MeuHackintosh
-Obrigado equipe do [🔗 OpenCore](https://github.com/acidanthera/OpenCorePkg) e o [🔗 Gabriel Luchina](https://www.youtube.com/c/GabrielLuchina), meu Hackintosh está rodando liso!
+Obrigado a equipe do [🔗 OpenCore](https://github.com/acidanthera/OpenCorePkg) e ao  [🔗 Gabriel Luchina](https://www.youtube.com/c/GabrielLuchina), meu Hackintosh está rodando liso!
 
 ![preview](https://i.imgur.com/tRyVFJx.jpg)
 
