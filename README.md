@@ -3,6 +3,8 @@ Obrigado a equipe do [🔗 OpenCore](https://github.com/acidanthera/OpenCorePkg)
 
 ![preview](https://i.imgur.com/tRyVFJx.jpg)
 
+![preview](https://i.imgur.com/WDCR89p.png)
+
 > Hackintosh 
 
 ## 🛠 Opencore
