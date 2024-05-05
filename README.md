@@ -23,4 +23,4 @@ Para adquirir conhecimento eu indico o canal do Gabriel Luchina
 
 ## 💛 Contato
 
-https://www.linkedin.com/in/7h14g0d/
+https://www.linkedin.com/in/thiagonet/
